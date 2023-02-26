@@ -2,7 +2,7 @@
 
  
 <p align="center">
-    <img src="https://pic.imgdb.cn/item/63fb3d72f144a0100735f611.jpg" alt="">
+    <img src="https://pic.imgdb.cn/item/63fb3d72f144a0100735f611.jpg" alt="" width="400">
 </p>
     
 # QQ 语音化美少女AI
