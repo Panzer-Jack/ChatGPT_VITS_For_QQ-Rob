@@ -50,8 +50,11 @@ Combination of ChatGPT and VITs anime girl AI voice and used in QQ robot
 #### 使用说明
 
 · 安装好相关运行环境。                   
+
 · 在项目根目录的config.py中设定声音模型和语言以及ChatGPT身份令牌
+
 · 开启go-cqhttp 来监听QQ消息
+
 · 打开控制台 移动到项目文件夹更目录输入:
 1.  ```pip3 install -r requirements.txt```
 2.  ```python3 run_server ```
