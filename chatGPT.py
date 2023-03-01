@@ -18,7 +18,7 @@ def chatGPT_ask(prompt, prev_text=prev_text):
         print(message, end="", flush=True)
         prev_text = data["message"]
     print("\n")
-    vits_voice(txt=prev_text, speaker=78, language=config.language)
+    vits_voice(txt=prev_text, speaker=config.speaker, language=config.language)
 
 
 print()
