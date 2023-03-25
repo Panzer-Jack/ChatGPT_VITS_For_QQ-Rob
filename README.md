@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/81006731/227700420-8083b21d-4518-4546-a956-2f68d92bd28e.png" alt="" width="400">
+    <img src="https://user-images.githubusercontent.com/81006731/227700420-8083b21d-4518-4546-a956-2f68d92bd28e.png" alt="" width="300">
 </p>
     
 # QQ 语音化美少女AI
