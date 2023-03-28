@@ -4,7 +4,7 @@
     <img src="https://user-images.githubusercontent.com/81006731/227700420-8083b21d-4518-4546-a956-2f68d92bd28e.png" alt="" width="300px">
 </p>
     
-# QQ 语音化美少女AI
+# QQ 群聊美少女语音AI
     
 _✨ 基于 [go-cqhttp](https://github.com/Mrs4s/go-cqhttp) 以及 [VITS-fast-fine-tuning](https://github.com/Plachtaa/VITS-fast-fine-tuning) + [revChatGPT](https://github.com/acheong08/ChatGPT)  实现 ✨_  
     
