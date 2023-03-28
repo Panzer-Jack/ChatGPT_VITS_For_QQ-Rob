@@ -20,7 +20,7 @@ Combination of ChatGPT and VITs anime girl AI voice and used in QQ robot
 #### 介绍
  ChatGPT 和 VITS 二次元美少女AI语音 结合 并用于 QQ聊天机器人 | Combination of ChatGPT and VITs anime girl AI voice and used in QQ robot
  
-## 由于ChatGPT 对国内彻底上墙了，因此该项目会利用开源模型ChatGLM 做本地化版本
+#### 由于ChatGPT 对国内彻底上墙了，因此该项目会利用开源模型ChatGLM 做本地化版本
 （ChatGLM本地化版本）QQ 语音化美少女AI 项目仓库：[ChatGLM_VITS_For_QQ-Rob](https://github.com/Panzer-Jack/ChatGLM_VITS_For_QQ-Rob) 
 
 <h2 style="color:red">注意: </h2>
