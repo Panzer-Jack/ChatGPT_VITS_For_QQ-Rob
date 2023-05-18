@@ -20,6 +20,11 @@ Combination of ChatGPT and VITs anime girl AI voice and used in QQ robot
 #### 介绍
  ChatGPT 和 VITS 二次元美少女AI语音 结合 并用于 QQ聊天机器人 | Combination of ChatGPT and VITs anime girl AI voice and used in QQ robot
  
+ 
+### 相关：
+#### Cyber AI-Waife | 这是一个有灵魂的赛博女朋友 （ 一个 Live2D 与 VITS + ChatGLM 相互碰撞的 Web 在线女友 ）
+Cyber AI-Waife 项目仓库：[Cyber AI-Waife](https://github.com/Panzer-Jack/Cyber_AI-Waife) 
+
 #### 由于ChatGPT 对国内彻底上墙了，因此该项目会利用开源模型ChatGLM 做本地化版本
 （ChatGLM 本地化版本） QQ 群聊美少女语音AI 项目仓库：[ChatGLM_VITS_For_QQ-Rob](https://github.com/Panzer-Jack/ChatGLM_VITS_For_QQ-Rob) 
 
