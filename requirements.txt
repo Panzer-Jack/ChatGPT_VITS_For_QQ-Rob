@@ -18,6 +18,6 @@ eng_to_ipa
 ko_pron
 indic_transliteration==2.3.37
 num_thai==0.0.5
-opencc==1.1.2
+opencc==1.1.9
 demucs
 gradio~=3.18.0
